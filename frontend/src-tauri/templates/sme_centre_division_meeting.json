@@ -1,0 +1,74 @@
+{
+  "name": "SME Centre Division Meeting Minutes",
+  "description": "Weekly/Monthly division meeting minutes template for SME Centre@SMF. Use for recording attendance, KPI updates, project updates, marketing updates, and action items from division meetings. Captures Singapore English terms and local context.",
+  "sections": [
+    {
+      "title": "Meeting Header",
+      "instruction": "Record the meeting title, date, time, and venue at the top of the minutes.",
+      "format": "paragraph",
+      "item_format": "Minutes of Meeting for SME Centre Division Meeting held on [Day], [Date] at [Venue]"
+    },
+    {
+      "title": "Staff Present",
+      "instruction": "List all staff present with their initials, name, and designation. Format as numbered list with initials in brackets after name.",
+      "format": "list",
+      "item_format": "[Number]. [Name] ([Initials]) [Designation] ([Cluster])"
+    },
+    {
+      "title": "Staff Absent with Apologies",
+      "instruction": "List any staff who sent apologies for absence.",
+      "format": "list",
+      "item_format": "[Name] ([Initials]) [Designation] ([Cluster])"
+    },
+    {
+      "title": "Matters Arising from Previous Minutes",
+      "instruction": "Record any matters arising from the previous meeting minutes. If none, state 'There were no matters arising from the minutes of the previous meeting.'",
+      "format": "paragraph"
+    },
+    {
+      "title": "KPI Updates",
+      "instruction": "Record all KPI achievement updates. Include baseline percentages, stretch target percentages, and commentary on progress. Break down by indicator: BAS, BCE, GBU, CF (Grant/Toolkits/Business Matching), CFNG, Business Matching, Training Hours, Success Stories, Customer Satisfaction Survey.",
+      "format": "list",
+      "item_format": "[KPI Indicator]: [Achievement details with percentages and commentary]"
+    },
+    {
+      "title": "Project Updates",
+      "instruction": "Record updates on GBU projects, policy changes, toolkit development, and other ongoing initiatives. Include any new proposals, changes in scope, and action items assigned.",
+      "format": "list",
+      "item_format": "[Project/Item]: [Update details with action items and responsible persons noted]"
+    },
+    {
+      "title": "Marketing Team Updates",
+      "instruction": "Record updates from the marketing team including SME Scan reports, corporate identity guidelines, event materials, collateral approvals, and any marketing-related decisions.",
+      "format": "paragraph"
+    },
+    {
+      "title": "Technology & Tools Updates",
+      "instruction": "Record any updates on internal tools, platforms, or technology pilots (e.g., Transcribe, CRM systems, recording tools) including feedback from BAs and adoption status.",
+      "format": "paragraph"
+    },
+    {
+      "title": "Governance & Compliance",
+      "instruction": "Record any governance, compliance, or policy matters including KPI verification issues, audit findings, code of conduct reminders, and vendor arm's-length requirements.",
+      "format": "paragraph"
+    },
+    {
+      "title": "Any Other Business (AOB)",
+      "instruction": "Record any other business items not covered above. Include strategic planning updates, upcoming events, new proposals, and general announcements.",
+      "format": "list",
+      "item_format": "[Topic]: [Discussion summary and any decisions made]"
+    },
+    {
+      "title": "Action Items Summary",
+      "instruction": "Summarise all action items discussed, including who is responsible (Action By) and any deadlines. Use initials to identify responsible persons.",
+      "format": "list",
+      "item_format": "[S/N] [Item description] — Action by: [Initials/Role]"
+    },
+    {
+      "title": "Meeting Close",
+      "instruction": "Record the next meeting date and time, adjournment time, and the names of the minute-taker and approver.",
+      "format": "paragraph",
+      "item_format": "Next meeting: [Date] at [Time]. Meeting concluded at [Time]. Recorded by: [Name]. Approved by: [Name]."
+    }
+  ]
+}

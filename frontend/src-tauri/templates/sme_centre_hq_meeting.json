@@ -1,0 +1,66 @@
+{
+  "name": "SME Centre HQ Meeting Minutes",
+  "description": "Weekly HQ team meeting minutes for SME Centre@SMF. Smaller meeting focused on individual BA progress, BAS ground sentiment, GBU updates, BCE event tracking, training hours, and customer feedback. More discussion-based than the Division Meeting format.",
+  "sections": [
+    {
+      "title": "Meeting Header",
+      "instruction": "Record the meeting title, date, and time at the top of the minutes.",
+      "format": "paragraph",
+      "item_format": "Minutes of Meeting for SME Centre HQ Meeting held on [Day], [Date] at [Time]"
+    },
+    {
+      "title": "Staff Present",
+      "instruction": "List all HQ staff present with their initials, name, and designation.",
+      "format": "list",
+      "item_format": "[Number]. [Name] ([Initials]) [Designation] ([Cluster])"
+    },
+    {
+      "title": "Staff Absent",
+      "instruction": "List any HQ staff who are absent.",
+      "format": "list",
+      "item_format": "[Name] ([Initials]) [Designation] ([Cluster])"
+    },
+    {
+      "title": "Business Advisory Session (BAS) Updates",
+      "instruction": "Record BAS challenges, interesting observations, SME ground sentiment, and any budget measure or policy implications discussed. Include discussion on new government support packages, grants, or schemes relevant to SMEs.",
+      "format": "list",
+      "item_format": "[Topic/Observation]: [Details and discussion points]"
+    },
+    {
+      "title": "Group Based Upgrading (GBU) Updates",
+      "instruction": "Record individual BA progress on GBU targets, toolkit completion status, SME reception feedback, and any challenges faced. Include discussion on toolkit value, industry-specific gaps, and potential new GBU proposals.",
+      "format": "list",
+      "item_format": "[BA Name/Team]: [Progress update, challenges, and action items]"
+    },
+    {
+      "title": "Business Community Engagement (BCE) Updates",
+      "instruction": "Record BCE event progress, attendance trends, event feedback, and committed upcoming events. Include discussion on event fatigue, topic relevance, and strategies to improve attendance.",
+      "format": "list",
+      "item_format": "[Event/Topic]: [Update and discussion points]"
+    },
+    {
+      "title": "Training Updates",
+      "instruction": "Record individual BA training hour statuses, course registrations, withdrawals, and projections. Note the overall target (80 hours) and any Enterprise Singapore training planned.",
+      "format": "list",
+      "item_format": "[BA Name]: [Hours registered, courses status, projection]"
+    },
+    {
+      "title": "Customer Feedback & CSS",
+      "instruction": "Record participant feedback from recent events, Customer Satisfaction Survey (CSS) results, and any issues raised. Include discussion on neutral ratings, PDPA constraints, and follow-up actions.",
+      "format": "list",
+      "item_format": "[Event/Feedback]: [Summary of feedback and agreed actions]"
+    },
+    {
+      "title": "Any Other Business (AOB)",
+      "instruction": "Record any other business items not covered above.",
+      "format": "list",
+      "item_format": "[Topic]: [Discussion summary]"
+    },
+    {
+      "title": "Meeting Close",
+      "instruction": "Record the names of the minute-taker and approver.",
+      "format": "paragraph",
+      "item_format": "Recorded by: [Name] Date: [Date]. Approved by: [Name] Date: [Date]."
+    }
+  ]
+}
